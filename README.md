@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analysis (SQL + Python + Excel + Power BI)
+# 🛒 ecommerce-sales-insights
 
 This project analyzes e-commerce sales data to extract insights on revenue trends, product performance, customer behavior, and regional sales. The full workflow includes data cleaning with **SQL**, analysis with **Pandas**, quick checks in **Excel**, and a dynamic **Power BI dashboard**.
 
